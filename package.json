@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriterTga/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewritertga" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewritertga" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
