@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
-      wImageWriterTga.out.will.yml:
-        hash: 25fa1d09cee19423cbc7593a17d7f363
-        size: 36876
+      wImageWriterTga.out.will.yml: *ref_0
